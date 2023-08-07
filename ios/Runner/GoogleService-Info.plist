@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>801222557943-s36md22mmlb8td1nskkut7b4o9fbc1t0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.801222557943-s36md22mmlb8td1nskkut7b4o9fbc1t0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBfqXjXG75UP5F0lAL7OJEjLpwTN6irhiY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>801222557943</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.kt.health.patient.healthlappyPatient</string>
+	<key>PROJECT_ID</key>
+	<string>healthlappy-aab74</string>
+	<key>STORAGE_BUCKET</key>
+	<string>healthlappy-aab74.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:801222557943:ios:4b03139cc3f711205a93f2</string>
+</dict>
+</plist>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "801222557943",
+    "project_id": "healthlappy-aab74",
+    "storage_bucket": "healthlappy-aab74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801222557943:android:9cc8e256b19444af5a93f2",
+        "android_client_info": {
+          "package_name": "app.kt.health.patient.healthlappy_patient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801222557943-220svie9tskojst8lta1olc5lrv3lmtu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLzJXTa1pSU8R66ouf0FIYcWqLsQ8St2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801222557943-220svie9tskojst8lta1olc5lrv3lmtu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "801222557943-b6fr3othn6atuu9r7nissot8mudvmg0k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.kt.health.patient.healthlappyPatient.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
